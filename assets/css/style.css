@@ -1,5 +1,4 @@
-/* GLOBAL STYLES
--------------------------------------------------- */
+
 /* Padding below the footer and lighter body text */
 
 body {
@@ -8,9 +7,6 @@ body {
     color: #5a5a5a;
   }
   
-  
-  /* CUSTOMIZE THE CAROUSEL
-  -------------------------------------------------- */
   
   /* Carousel base class */
   .carousel {
@@ -35,11 +31,6 @@ body {
     height: 32rem;
   }
   
-  
-  /* MARKETING CONTENT
-  -------------------------------------------------- */
-  
-  /* Center align the text within the three columns below the carousel */
   .marketing .col-lg-4 {
     margin-bottom: 1.5rem;
     text-align: center;
@@ -51,11 +42,7 @@ body {
     margin-right: .75rem;
     margin-left: .75rem;
   }
-  
-  
-  /* Featurettes
-  ------------------------- */
-  
+
   .featurette-divider {
     margin: 5rem 0; /* Space out the Bootstrap <hr> more */
   }
